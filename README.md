@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌑 Welcome to My infinity World  
+# ♾️ Welcome to My infinity World 🌏 
 ### I'm <strong>Raha's infinity</strong>  
 Competitive Programmer | MERN (upcoming)
   
