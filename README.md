@@ -57,5 +57,5 @@ Competitive Programmer | MERN (upcoming)
 
 <div align="center">
   
-### 🌘 May Allah bless You.  
+### 🕋 indeed, with Hardship [will be] Ease.  
 </div>
