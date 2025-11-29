@@ -10,7 +10,7 @@ Competitive Programmer | MERN (upcoming)
 
 ---
 
-## 🖤 About Me
+## 🖤 Skills :-
 - 💻 **Competitive Programmer** - (CF-Div2-Focus)  
 - ✨ Proficient in → **C++ | STL | Mathematics**
 - 📈 intermediate in → **Data Structures | Algorithms**
