@@ -14,8 +14,8 @@ Competitive Programmer | MERN (upcoming)
 - 💻 **Competitive Programmer** - (CF-Div2-Focus)  
 - ✨ Proficient in → **C++ | STL | Mathematics**
 - 📈 intermediate in → **Data Structures | Algorithms**
-- 🎯 Next Goal → Become a **MERN Full-Stack Developer**  
-- 🧩 Enjoy → Solving Problems | Math | Logic | Optimization  
+- ⏳ Next Goal → Become a **MERN Full-Stack Developer**  
+- 🎯 Enjoy → Solving Problems | Math | Logic | Optimization  
 
 ---
 
