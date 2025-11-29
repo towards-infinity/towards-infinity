@@ -22,7 +22,7 @@ Competitive Programmer | MERN (upcoming)
 ## 🛠 Tech & Tools  
 ### ⚔ Competitive Programming  
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,sublime&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,github,sublime,vscode&theme=dark" />
 </p>
 
 ### 🌐 MERN Roadmap (Soon)  
