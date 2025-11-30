@@ -1,7 +1,7 @@
 <div align="center">
   
 # ♾️ Welcome to My infinity World 🌏 
-### I'm <strong>Raha's infinity</strong>  
+### I'm <strong>Raha's Attaa</strong>  
 Competitive Programmer | MERN (upcoming)
   
 <img src="https://readme-typing-svg.herokuapp.com?color=9F9F9F&size=24&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Loves+Problem+Solving;Future+MERN+Stack+Developer" />
