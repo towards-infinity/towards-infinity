@@ -47,6 +47,7 @@ Competitive Programmer | MERN (upcoming)
 
 ## 📊 GitHub Stats
 <p align="center">
+  <!-- <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=towards-infinity&theme=dracula" /> -->
   
   <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=towards-infinity&theme=dracula" />
   <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=towards-infinity&theme=dracula&utcOffset=8" />
