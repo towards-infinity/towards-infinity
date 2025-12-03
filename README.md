@@ -35,6 +35,8 @@ Competitive Programmer | MERN (upcoming)
 
 ---
 
+
+
 ## 📈 GitHub Analytics  
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=towards-infinity&theme=react&show_icons=true&hide_border=true" />
@@ -52,6 +54,7 @@ Competitive Programmer | MERN (upcoming)
 <p align="center">
   <img width="95%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towards-infinity&theme=dracula" />
 </p>
+
 ---
 
 ## 📫 Contact Me  
