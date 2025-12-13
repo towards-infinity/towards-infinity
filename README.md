@@ -47,16 +47,22 @@ Competitive Programmer | MERN (upcoming)
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=towards-infinity&theme=dracula" /> -->
-  
+  <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=towards-infinity&theme=dracula" />
   <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=towards-infinity&theme=dracula" />
   <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=towards-infinity&theme=dracula&utcOffset=8" />
-</p>
+
+
+
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
-  <img width="95%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towards-infinity&theme=dracula" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=towards-infinity&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
+
 
 ## 📫 Contact Me  
 <p>
