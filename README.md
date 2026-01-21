@@ -3,7 +3,7 @@
 
 <div align="center">
   
-# ♾️ 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑀𝑦 𝑖𝑛𝑓𝑖𝑛𝑖𝑡𝑦 𝑊𝑜𝑟𝑙𝑑 🌏 
+# 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑀𝑦 ♾️ 🌏 
 ### I'm <strong>Raha Ahmed</strong>  
 Competitive Programmer | MERN (upcoming)
 
