@@ -139,11 +139,14 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=towards-infinity&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
 
-<br/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towards-infinity&theme=tokyonight" alt="Activity Overview" />
+</div>
+
+
+---
+
 
 <div align="center">
   <h3> 🕋 indeed, with Hardship [will be] Ease. - Al-Qur'an (94/6).</h3>
@@ -194,5 +197,9 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
   </tr>
 </table>
 
+<br/>
+
 
 ---
+
+
