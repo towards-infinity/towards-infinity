@@ -2,53 +2,116 @@
 ---
 
 <div align="center">
-  
-# 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑀𝑦 ♾️ 🌏 
-### I'm <strong>Raha Ahmed</strong>  
-Competitive Programmer | MERN (upcoming)
-
-
-</div>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=towards-infinity&label=Profile%20views&color=0e75b6&style=flat" alt="towards-infinity" />
-</p>
-
-<div align='center'>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Competitive+Programmer;Problem+Solver;Software+Engineer" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Raha%20Ahmed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20MERN%20Stack%20Developer&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Competitive+Programmer+(CF-Div2-Focus);MERN+Stack+Developer+(Upcoming);Problem+Solver+%26+Logic+Enthusiast;Proficient+in+C%2B%2B%2C+STL+%26+Math;AI+Integration+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:shadhin0t0i@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/towards-infinity">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rs1630/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
+
+<br/>
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=towards-infinity&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="towards-infinity" />
+</div>
+
+<br/>
 
 
 ---
 
 
+## 👨‍💻 About Me
 
-## 🛠️ Tech Skills 
+I am a passionate **Competitive Programmer** and an aspiring **Full Stack Developer**. My journey is defined by a deep love for mathematics, logic, and optimization.
 
-- 💻 **Competitive Programmer** - (CF-Div2-Focus)  
-- ✨ Proficient in → **C++ | STL | Mathematics**
-- ⚡ intermediate in → **Data Structures | Algorithms**
-- 🔢 Elementary → Python | NumPy | Pandas | ML 
-- ⏳ Next Goal → Become a **MERN Full-Stack Developer**
-- 🎯 Enjoy → Solving Problems | Math | Logic | Optimization  
-- 📈 Future → AI integration into SWE & various Tech Fields !
+> "Indeed, with Hardship [will be] Ease."
 
+I have a strong background in **C++ and STL**, currently focusing on mastering **Data Structures & Algorithms**. I am also expanding my skill set into the **MERN Stack** and exploring **AI/ML integration** in software engineering.
+
+- 🔭 I’m currently focusing on **Competitive Programming (Codeforces Div 2)**.
+- 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js)**.
+- 👯 I’m looking to collaborate on **Open Source projects**.
+- 💬 Ask me about **C++, Mathematics, and Logic**.
+
+
+---
+
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### Languages
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+### Frontend
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+### Backend & Database
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+### ML & Data Science
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+### Tools & DevOps
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
 
 
 ---
 
 
+## 🏆 Competitive Programming
 
-## 🛠 Tech & Tools 
-
-| **Languages** | **Frontend** | **Backend** | **Database** | **DevOps** | **ML** | **Tools** | 
-|---------------------------|--------------|-------------|--------------|-----------|-----------|-----------|
-| <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,python" alt="languages-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="frontend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="database-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,jest" alt="devops-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=sklearn,pytorch,flask" alt="ml-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=sublime,vscode,git,aws" alt="tools-icons" style="width: 100%;"/> |
-
+<div align="center">
+  <a href="https://codeforces.com/profile/0t0infinity">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</div>
 
 
 ---
-
 
 
 ## 📊 GitHub Stats
@@ -58,9 +121,7 @@ Competitive Programmer | MERN (upcoming)
   <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=towards-infinity&theme=dracula&utcOffset=8" />
 
 
-
----
-
+--- 
 
 
 ## 📈 GitHub Analytics  
@@ -70,9 +131,10 @@ Competitive Programmer | MERN (upcoming)
 </p>
 
 
+<br/>
+
 
 ---
-
 
 
 ## 📈 Contribution Graph
@@ -81,55 +143,56 @@ Competitive Programmer | MERN (upcoming)
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=towards-infinity&theme=tokyo-night&hide_border=true" />
 </p>
 
-
-
----
-
-
-
-<div>
-  <h3>📞 Connect with me:</h3>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rs1630/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-  </a> &nbsp;
-
-  <!-- Portfolio (placeholder) -->
-  <a href="address" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio"/>
-  </a> &nbsp;
-
-  <!-- Email (show only) -->
-  <span title="shadhin0t0i@gmail.com" style="cursor:pointer;">
-    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
-  </span> &nbsp;
-
-  <!-- Discord (show only) -->
-  <span title="shadhin_02i" style="cursor:pointer;">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord"/>
-  </span> &nbsp;
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/0t0infinity" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png"
-         alt="Codeforces"/>
-  </a> &nbsp;
-</div>
-
-
-
----
-
-
+<br/>
 
 <div align="center">
-### 🕋 indeed, with Hardship [will be] Ease.  
+  <h3> 🕋 indeed, with Hardship [will be] Ease. - Al-Qur'an (94/6).</h3>
 </div>
 
 
-
---- 
-
+---
 
 
+## 📦 My Repositories
+    
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/towards-infinity/Repo-Name-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Repo-Name-1&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/towards-infinity/Repo-Name-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Repo-Name-2&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/towards-infinity/Repo-Name-3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Repo-Name-3&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/towards-infinity/Repo-Name-4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Repo-Name-4&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/towards-infinity/Repo-Name-5">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Repo-Name-5&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/towards-infinity/Repo-Name-6">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Repo-Name-6&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+---
