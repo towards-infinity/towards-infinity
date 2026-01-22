@@ -37,25 +37,21 @@
 
 
 ---
-<br/>
 
 
 ## 👨‍💻 About Me
 
 I am a passionate **Competitive Programmer** and an aspiring **Full Stack Developer**. My journey is defined by a deep love for mathematics, logic, and optimization.
 
-> "Indeed, with Hardship [will be] Ease."
-
 I have a strong background in **C++ and STL**, currently focusing on mastering **Data Structures & Algorithms**. I am also expanding my skill set into the **MERN Stack** and exploring **AI/ML integration** in software engineering.
 
-- 🔭 I’m currently focusing on **Competitive Programming (Codeforces Div 2)**.
-- 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js)**.
-- 👯 I’m looking to collaborate on **Open Source projects**.
-- 💬 Ask me about **C++, Mathematics, and Logic**.
+-  I’m currently focusing on **Competitive Programming (Codeforces Div 2)**.
+-  I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js)**.
+-  I’m looking to collaborate on **Open Source projects**.
+-  Ask me about **C++, Mathematics, and Logic**.
 
 
 --- 
-<br/>
 
 
 ## 🛠️ Technical Skills
@@ -97,7 +93,6 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 
 --- 
-<br/>
 
 
 ## 🏆 Competitive Programming
@@ -113,7 +108,6 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 
 ---
-<br/>
 
 
 ## 📊 GitHub Stats
@@ -124,10 +118,9 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 
 ---
-<br/>
 
 
-## 📈 GitHub Analytics  
+## 📊 GitHub Analytics  
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=towards-infinity&theme=react&show_icons=true&hide_border=true" />
   <img width="48%" src="https://streak-stats.vercel.app/?user=towards-infinity&theme=react&hide_border=true"/>
@@ -135,7 +128,6 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 
 --- 
-<br/>
 
 
 ## 📈 Contribution Graph
@@ -147,7 +139,6 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 
 --- 
-<br/>
 
 
 <div align="center">
@@ -156,7 +147,6 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 
 --- 
-<br/>
 
 
 ## 📦 My Repositories
