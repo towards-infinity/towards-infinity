@@ -154,25 +154,25 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/towards-infinity/Repo-Name-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Repo-Name-1&theme=tokyonight" alt="GitHub Stats" />
+      <a href="https://github.com/towards-infinity/DSA-sigma-prime-2.0">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=DSA-sigma-prime-2.0&theme=tokyonight" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/towards-infinity/Repo-Name-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Repo-Name-2&theme=tokyonight" alt="GitHub Stats" />
+      <a href="https://github.com/towards-infinity/AI-ML-sigma-prime-2.0">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=AI-ML-sigma-prime-2.0&theme=tokyonight" alt="GitHub Stats" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/towards-infinity/Repo-Name-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Repo-Name-3&theme=tokyonight" alt="GitHub Stats" />
+      <a href="https://github.com/towards-infinity/MERN-sigma-prime-2.0">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=MERN-sigma-prime-2.0&theme=tokyonight" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/towards-infinity/Repo-Name-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Repo-Name-4&theme=tokyonight" alt="GitHub Stats" />
+      <a href="https://github.com/towards-infinity/Others-sigma-prime-2.0">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Others-sigma-prime-2.0&theme=tokyonight" alt="GitHub Stats" />
       </a>
     </td>
   </tr>
