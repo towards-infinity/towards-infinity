@@ -110,16 +110,6 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 ---
 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=towards-infinity&theme=dracula" />
-  <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=towards-infinity&theme=dracula" />
-  <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=towards-infinity&theme=dracula&utcOffset=8" />
-
-
----
-
-
 ## 📊 GitHub Analytics  
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=towards-infinity&theme=react&show_icons=true&hide_border=true" />
@@ -127,7 +117,16 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 </p>
 
 
---- 
+---
+
+
+<p align="center">
+  <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=towards-infinity&theme=dracula" />
+  <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=towards-infinity&theme=dracula" />
+  <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=towards-infinity&theme=dracula&utcOffset=8" />
+
+
+---
 
 
 ## 📈 Contribution Graph
