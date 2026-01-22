@@ -35,10 +35,9 @@
   <img src="https://komarev.com/ghpvc/?username=towards-infinity&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="towards-infinity" />
 </div>
 
-<br/>
-
 
 ---
+<br/>
 
 
 ## 👨‍💻 About Me
@@ -55,7 +54,8 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 - 💬 Ask me about **C++, Mathematics, and Logic**.
 
 
----
+--- 
+<br/>
 
 
 ## 🛠️ Technical Skills
@@ -96,7 +96,8 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 </div>
 
 
----
+--- 
+<br/>
 
 
 ## 🏆 Competitive Programming
@@ -112,6 +113,7 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 
 ---
+<br/>
 
 
 ## 📊 GitHub Stats
@@ -121,7 +123,8 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
   <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=towards-infinity&theme=dracula&utcOffset=8" />
 
 
---- 
+---
+<br/>
 
 
 ## 📈 GitHub Analytics  
@@ -131,7 +134,8 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 </p>
 
 
----
+--- 
+<br/>
 
 
 ## 📈 Contribution Graph
@@ -142,7 +146,8 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 </div>
 
 
----
+--- 
+<br/>
 
 
 <div align="center">
@@ -150,7 +155,8 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 </div>
 
 
----
+--- 
+<br/>
 
 
 ## 📦 My Repositories
