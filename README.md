@@ -133,7 +133,7 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 <div align="center">
 
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towards-infinity&theme=tokyonight" alt="Activity Overview" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towards-infinity&hide_fullname=true&theme=tokyonight" alt="Activity Overview" />
 </div>
 
 
