@@ -2,7 +2,7 @@
 <h3 align="center">Assalamu Alaikum</h3> 
  
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1fb78a&height=280&section=header&text=Raha%20Ahmed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20MERN%20Stack%20Developer&descAlignY=60&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1fb78a&height=280&section=header&text=Raha%20Ahmed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20MERN%20Developer&descAlignY=60&descAlign=62" width="100%"/>
 </div>
 
 <div align="center">
