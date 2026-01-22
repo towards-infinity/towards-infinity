@@ -1,7 +1,7 @@
 
 
 ---
-<h4>𝑨𝒔𝒔𝒂𝒍𝒂𝒎𝒖 𝑨𝒍𝒂𝒊𝒌𝒖𝒎</h4>
+<h4>Assalamu Alaikum</h4>
  
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1fb78a&height=280&section=header&text=Raha%20Ahmed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20MERN%20Stack%20Developer&descAlignY=60&descAlign=62" width="100%"/>
