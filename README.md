@@ -121,9 +121,8 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 
 <p align="center">
-  <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=towards-infinity&theme=dracula" />
-  <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=towards-infinity&theme=dracula" />
-  <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=towards-infinity&theme=dracula&utcOffset=8" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=towards-infinity&theme=dracula" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=towards-infinity&theme=dracula&utcOffset=8" />
 
 
 ---
@@ -133,7 +132,7 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 <div align="center">
 
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towards-infinity&hide_fullname=true&theme=tokyonight" alt="Activity Overview" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towards-infinity&hide_fullname=true&theme=tokyonight" alt="Activity Overview" />
 </div>
 
 
