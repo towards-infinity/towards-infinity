@@ -131,9 +131,6 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 </p>
 
 
-<br/>
-
-
 ---
 
 
