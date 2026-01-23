@@ -178,13 +178,13 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 <tr>
   <td align="center" width="50%">
-    <a href="https://github.com/towards-infinity/Project-5">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=project-5&theme=tokyonight" />
+    <a href="https://github.com/towards-infinity/CP-Phase-1">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=cp-phase-1&theme=tokyonight" />
     </a>
   </td>
   <td align="center" width="50%">
-    <a href="https://github.com/towards-infinity/Project-6">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=project-6&theme=tokyonight" />
+    <a href="https://github.com/towards-infinity/CP-Phase-2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=cp-phase-2&theme=tokyonight" />
     </a>
   </td>
 </tr>
