@@ -112,8 +112,8 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=towards-infinity&theme=react&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://streak-stats.vercel.app/?user=towards-infinity&theme=react&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=towards-infinity&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.vercel.app/?user=towards-infinity&theme=tokyonight&hide_border=true"/>
 </p>
 
 
@@ -121,8 +121,9 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 
 
 <p align="center">
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=towards-infinity&theme=dracula" />
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=towards-infinity&theme=dracula&utcOffset=8" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=towards-infinity&theme=tokyonight" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=towards-infinity&theme=tokyonight&utcOffset=8" />
+</p>
 
 
 ---
