@@ -152,28 +152,28 @@ I have a strong background in **C++ and STL**, currently focusing on mastering *
 <table align="center">
  <tr>
   <td align="center" width="50%">
-    <a href="https://github.com/towards-infinity/PROJECT_NAME_1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=PROJECT_NAME_1&theme=tokyonight" />
+    <a href="https://github.com/towards-infinity/Project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Project&theme=tokyonight" />
     </a>
   </td>
 
   <td align="center" width="50%">
-    <a href="https://github.com/towards-infinity/PROJECT_NAME_2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=PROJECT_NAME_2&theme=tokyonight" />
+    <a href="https://github.com/towards-infinity/Project-2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=project-2&theme=tokyonight" />
     </a>
   </td>
 </tr>
 
 <tr>
   <td align="center" width="50%">
-    <a href="https://github.com/towards-infinity/PROJECT_NAME_3">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=PROJECT_NAME_3&theme=tokyonight" />
+    <a href="https://github.com/towards-infinity/Project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Project&theme=tokyonight" />
     </a>
   </td>
 
   <td align="center" width="50%">
-    <a href="https://github.com/towards-infinity/PROJECT_NAME_4">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=PROJECT_NAME_4&theme=tokyonight" />
+    <a href="https://github.com/towards-infinity/Project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Project&theme=tokyonight" />
     </a>
   </td>
 </tr>
