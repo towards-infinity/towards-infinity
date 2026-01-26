@@ -45,7 +45,7 @@ I am a **Software Engineering Aspirant** and a dedicated **Competitive Programme
 
 I bridge the gap between **high-performance logic** (using C++ and STL for Competitive Programming) and **modern product development** (building scalable applications with the MERN Stack). My ultimate goal is to architect **AI-integrated software**—combining robust full-stack foundations with the power of Generative AI and Machine Learning.
 
-- 🚀 **CP Journey:** Active on **Codeforces (Div 2)**, refining my intuition for advanced DSA and mathematical optimization in **Sublime Text**.
+- 🚀 **CP Journey:** Active on **Codeforces (Div 2)**, refining my intuition for advanced DSA and mathematical optimization in.
 - 🌐 **Web Dev:** Crafting seamless user experiences and robust backends using the **MERN Stack** in **VS Code**.
 - 🧠 **AI/ML Focus:** Developing a solid foundation in Machine Learning and Generative AI (RAG, Agentic AI) to engineer smarter, data-driven applications.
 - 🤝 **Collaboration:** I am eager to contribute to **Open Source** projects and collaborate on innovative software solutions.
