@@ -41,57 +41,27 @@
 
 ## 👨‍💻 About Me - option 1 
 
-I am a **Software Engineering Aspirant** and a dedicated **Competitive Programmer** currently undergoing a rigorous 9-month transformation through the **Sigma Prime (Apna College)** program. My journey is driven by a deep fascination with mathematics and the challenge of optimizing complex systems.
+I am a **Software Engineering Aspirant** and a dedicated **Competitive Programmer** currently undergoing a rigorous 9-month transformation through the **Sigma Prime (Apna College)** program. My journey is driven by a deep fascination with mathematics and the challenge of optimizing complex systems through code.
 
 I bridge the gap between **high-performance logic** (using C++ and STL for Competitive Programming) and **modern product development** (building scalable applications with the MERN Stack). My ultimate goal is to integrate **AI/ML capabilities** into full-stack architectures to build intelligent, data-driven solutions.
 
-- 🚀 **CP Journey:** Active on **Codeforces (Div 2)**, refining my intuition for advanced DSA and mathematical optimization in **Sublime Text**.
-- 🌐 **Web Dev:** Crafting seamless user experiences and robust backends using the **MERN Stack** in **VS Code**.
-- 🧠 **AI/ML Focus:** Developing a solid foundation in Machine Learning and Generative AI to engineer smarter applications.
-- 🤝 **Collaboration:** I am eager to contribute to **Open Source** projects and collaborate on innovative software solutions.
-- 💬 **Ask me about:** C++, Logic Building, MERN Architecture, or the intersection of AI and Web Development.
 
----
-
-### 📈 The Sigma Prime Roadmap (10-Month Transformation)
-- [ ] **Phase 1:** Mastering DSA & Logic Building with Java/C++ (In Progress)
-- [ ] **Phase 2:** Full Stack Engineering with MERN & DevOps
-- [ ] **Phase 3:** AI/ML Engineering & GenAI Integration
-
-
---- 
-
-
-## 👨‍💻 About Me - option 2 
-
-I am a **Software Engineering Aspirant** and a dedicated **Competitive Programmer** currently undergoing a rigorous 9-month transformation through the **Sigma Prime (Apna College)** program. My journey is driven by a deep fascination with mathematics and the challenge of optimizing complex systems through code.
 
 I bridge the gap between **high-performance logic** (using C++ and STL for Competitive Programming) and **modern product development** (building scalable applications with the MERN Stack). My ultimate goal is to architect **AI-integrated software**—combining robust full-stack foundations with the power of Generative AI and Machine Learning.
 
-- 🚀 **CP Journey:** Active on **Codeforces (Div 2)**, refining my intuition for advanced DSA and mathematical optimization using **Sublime Text**.
-- 🌐 **Web Dev:** Crafting seamless user experiences and robust backends using the **MERN Stack** (MongoDB, Express, React, Node.js) in **VS Code**.
+- 🚀 **CP Journey:** Active on **Codeforces (Div 2)**, refining my intuition for advanced DSA and mathematical optimization in **Sublime Text**.
+- 🌐 **Web Dev:** Crafting seamless user experiences and robust backends using the **MERN Stack** in **VS Code**.
 - 🧠 **AI/ML Focus:** Developing a solid foundation in Machine Learning and Generative AI (RAG, Agentic AI) to engineer smarter, data-driven applications.
 - 🤝 **Collaboration:** I am eager to contribute to **Open Source** projects and collaborate on innovative software solutions.
 - 💬 **Ask me about:** C++, Logic Building, MERN Architecture, or the intersection of AI and Web Development.
 
 ---
 
-### 📈 The Sigma Prime Roadmap (9-Month Transformation)
-
-- [ ] **Phase 1: DSA & Problem Solving (4 Months)**
-  - Mastering 300+ Solved Questions in Java/C++.
-  - Deep dive into Advanced DSA (Dynamic Programming, Graphs, Segment Trees).
-  - Consistent participation in Competitive Programming contests.
-
-- [ ] **Phase 2: Full Stack Engineering & DevOps (4.5 Months)**
-  - Building industry-grade projects with **MERN Stack**.
-  - Mastering **DevOps** essentials: Docker, Kubernetes, and CI/CD pipelines.
-  - Cloud Deployment and scaling applications on **AWS**.
-
-- [ ] **Phase 3: AI/ML & Generative AI Engineering**
-  - Building the AI stack: NumPy, Pandas, Scikit-Learn, and PyTorch.
-  - Exploring LLMs, Retrieval-Augmented Generation (RAG), and Agentic AI.
-  - Integrating AI/ML models into Full-Stack architectures.
+### 📈 Sigma Prime 11 - (10-Months )
+- [ ] **DSA :** Mastering DSA & Logic Building with C++. (4 Months)
+- [ ] **DEV:** Full Stack Engineering with MERN & DevOps. (5 Months)
+- [ ] **AI-ML:** AI/ML Engineering & GenAI Integration. (4 Months)
+- [ ] **Aptitude & Core:** Aptitude Test & OOP, DBMS, CN, SD.
 
 
 --- 
@@ -101,13 +71,13 @@ I bridge the gap between **high-performance logic** (using C++ and STL for Compe
 
 <div align="center">
 
-### 💻 Languages
+### </> Languages
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-### 🖼️ Frontend
+### 💻 Frontend
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
