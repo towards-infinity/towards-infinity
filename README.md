@@ -41,14 +41,22 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Competitive Programmer** and an aspiring **Full Stack Developer**. My journey is defined by a deep love for mathematics, logic, and optimization.
+I am a **Software Engineering Aspirant** and a dedicated **Competitive Programmer** currently undergoing a rigorous 9-month transformation through the **Sigma Prime (Apna College)** program. My journey is driven by a deep fascination with mathematics and the challenge of optimizing complex systems.
 
-I have a strong background in **C++ and STL**, currently focusing on mastering **Data Structures & Algorithms**. I am also expanding my skill set into the **MERN Stack** and exploring **AI/ML integration** in software engineering.
+I bridge the gap between **high-performance logic** (using C++ and STL for Competitive Programming) and **modern product development** (building scalable applications with the MERN Stack). My ultimate goal is to integrate **AI/ML capabilities** into full-stack architectures to build intelligent, data-driven solutions.
 
--  I’m currently focusing on **Competitive Programming (Codeforces Div 2)**.
--  I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js)**.
--  I’m looking to collaborate on **Open Source projects**.
--  Ask me about **C++, Mathematics, and Logic**.
+- 🚀 **CP Journey:** Active on **Codeforces (Div 2)**, refining my intuition for advanced DSA and mathematical optimization in **Sublime Text**.
+- 🌐 **Web Dev:** Crafting seamless user experiences and robust backends using the **MERN Stack** in **VS Code**.
+- 🧠 **AI/ML Focus:** Developing a solid foundation in Machine Learning and Generative AI to engineer smarter applications.
+- 🤝 **Collaboration:** I am eager to contribute to **Open Source** projects and collaborate on innovative software solutions.
+- 💬 **Ask me about:** C++, Logic Building, MERN Architecture, or the intersection of AI and Web Development.
+
+---
+
+### 📈 The Sigma Prime Roadmap (10-Month Transformation)
+- [ ] **Phase 1:** Mastering DSA & Logic Building with Java/C++ (In Progress)
+- [ ] **Phase 2:** Full Stack Engineering with MERN & DevOps
+- [ ] **Phase 3:** AI/ML Engineering & GenAI Integration
 
 
 --- 
