@@ -39,7 +39,7 @@
 ---
 
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me - option 1 
 
 I am a **Software Engineering Aspirant** and a dedicated **Competitive Programmer** currently undergoing a rigorous 9-month transformation through the **Sigma Prime (Apna College)** program. My journey is driven by a deep fascination with mathematics and the challenge of optimizing complex systems.
 
@@ -57,6 +57,41 @@ I bridge the gap between **high-performance logic** (using C++ and STL for Compe
 - [ ] **Phase 1:** Mastering DSA & Logic Building with Java/C++ (In Progress)
 - [ ] **Phase 2:** Full Stack Engineering with MERN & DevOps
 - [ ] **Phase 3:** AI/ML Engineering & GenAI Integration
+
+
+--- 
+
+
+## 👨‍💻 About Me - option 2 
+
+I am a **Software Engineering Aspirant** and a dedicated **Competitive Programmer** currently undergoing a rigorous 9-month transformation through the **Sigma Prime (Apna College)** program. My journey is driven by a deep fascination with mathematics and the challenge of optimizing complex systems through code.
+
+I bridge the gap between **high-performance logic** (using C++ and STL for Competitive Programming) and **modern product development** (building scalable applications with the MERN Stack). My ultimate goal is to architect **AI-integrated software**—combining robust full-stack foundations with the power of Generative AI and Machine Learning.
+
+- 🚀 **CP Journey:** Active on **Codeforces (Div 2)**, refining my intuition for advanced DSA and mathematical optimization using **Sublime Text**.
+- 🌐 **Web Dev:** Crafting seamless user experiences and robust backends using the **MERN Stack** (MongoDB, Express, React, Node.js) in **VS Code**.
+- 🧠 **AI/ML Focus:** Developing a solid foundation in Machine Learning and Generative AI (RAG, Agentic AI) to engineer smarter, data-driven applications.
+- 🤝 **Collaboration:** I am eager to contribute to **Open Source** projects and collaborate on innovative software solutions.
+- 💬 **Ask me about:** C++, Logic Building, MERN Architecture, or the intersection of AI and Web Development.
+
+---
+
+### 📈 The Sigma Prime Roadmap (9-Month Transformation)
+
+- [ ] **Phase 1: DSA & Problem Solving (4 Months)**
+  - Mastering 300+ Solved Questions in Java/C++.
+  - Deep dive into Advanced DSA (Dynamic Programming, Graphs, Segment Trees).
+  - Consistent participation in Competitive Programming contests.
+
+- [ ] **Phase 2: Full Stack Engineering & DevOps (4.5 Months)**
+  - Building industry-grade projects with **MERN Stack**.
+  - Mastering **DevOps** essentials: Docker, Kubernetes, and CI/CD pipelines.
+  - Cloud Deployment and scaling applications on **AWS**.
+
+- [ ] **Phase 3: AI/ML & Generative AI Engineering**
+  - Building the AI stack: NumPy, Pandas, Scikit-Learn, and PyTorch.
+  - Exploring LLMs, Retrieval-Augmented Generation (RAG), and Agentic AI.
+  - Integrating AI/ML models into Full-Stack architectures.
 
 
 --- 
