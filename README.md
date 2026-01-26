@@ -39,13 +39,9 @@
 ---
 
 
-## 👨‍💻 About Me - option 1 
+## 👨‍💻 About Me 
 
 I am a **Software Engineering Aspirant** and a dedicated **Competitive Programmer** currently undergoing a rigorous 9-month transformation through the **Sigma Prime (Apna College)** program. My journey is driven by a deep fascination with mathematics and the challenge of optimizing complex systems through code.
-
-I bridge the gap between **high-performance logic** (using C++ and STL for Competitive Programming) and **modern product development** (building scalable applications with the MERN Stack). My ultimate goal is to integrate **AI/ML capabilities** into full-stack architectures to build intelligent, data-driven solutions.
-
-
 
 I bridge the gap between **high-performance logic** (using C++ and STL for Competitive Programming) and **modern product development** (building scalable applications with the MERN Stack). My ultimate goal is to architect **AI-integrated software**—combining robust full-stack foundations with the power of Generative AI and Machine Learning.
 
