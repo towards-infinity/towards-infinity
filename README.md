@@ -57,7 +57,7 @@ I bridge the gap between **high-performance logic** (using C++ and STL for Compe
 - [ ] **DSA :** Mastering DSA & Logic Building with C++. (4 Months)
 - [ ] **DEV:** Full Stack Engineering with MERN & DevOps. (5 Months)
 - [ ] **AI-ML:** AI/ML Engineering & GenAI Integration. (4 Months)
-- [ ] **Aptitude & Core:** Aptitude Test & OOP, DBMS, CN, SD.
+- [ ] **Aptitude & Core:** Aptitude Test & OOP, DBMS, OS, CN, SD*.
 
 
 --- 
