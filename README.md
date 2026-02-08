@@ -176,12 +176,12 @@ I bridge the gap between **high-performance logic** (using C++ and STL for Compe
  <tr>
   <td align="center" width="50%">
     <a href="https://github.com/towards-infinity/Project-1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=project-1&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Project-1&theme=tokyonight" />
     </a>
   </td>
   <td align="center" width="50%">
     <a href="https://github.com/towards-infinity/Project-2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=project-2&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Project-2&theme=tokyonight" />
     </a>
   </td>
 </tr>
@@ -189,12 +189,12 @@ I bridge the gap between **high-performance logic** (using C++ and STL for Compe
 <tr>
   <td align="center" width="50%">
     <a href="https://github.com/towards-infinity/Project-3">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=project-3&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Project-3&theme=tokyonight" />
     </a>
   </td>
   <td align="center" width="50%">
     <a href="https://github.com/towards-infinity/Project-4">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=project-4&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=towards-infinity&repo=Project-4&theme=tokyonight" />
     </a>
   </td>
 </tr>
@@ -214,6 +214,20 @@ I bridge the gap between **high-performance logic** (using C++ and STL for Compe
 
 </table>
 
+
+---
+
+
+## 📦 My Projects
+
+| Project | Links | Tech Stack | Description |
+| :--- | :---: | :--- |  :--- |
+| **Project 1** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/Project-1) | `Python` `React` | info |
+| **Project 2** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/project-2) | `JavaScript` `Node` | info |
+| **Project 3** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/Project-3) | `Python` `React` | info |
+| **Project 4** | [![Repo](https://img.shields.io/badge/Repository-Stats-blue?style=for-the-badge&logo=github)](https://github.com/towards-infinity/project-4) | `JavaScript` `Node` | info |
+| **CP Phase 1** | [![Repo](https://img.shields.io/badge/Repository-Stats-orange?style=for-the-badge&logo=github)](https://github.com/towards-infinity/CP-Phase-1) | `C++` `DSA` | info |
+| **CP Phase 2** | [![Repo](https://img.shields.io/badge/Repository-Stats-orange?style=for-the-badge&logo=github)](https://github.com/towards-infinity/CP-Phase-2) | `C++` `Competitive` | info |
 
 
 ---
