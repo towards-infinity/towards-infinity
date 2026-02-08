@@ -123,7 +123,7 @@ I bridge the gap between **high-performance logic** (using C++ and STL for Compe
   <a href="https://codeforces.com/profile/0t0infinity">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="#">
+  <a href="https://leetcode.com/u/0twoinfinity/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
