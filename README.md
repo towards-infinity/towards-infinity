@@ -41,19 +41,17 @@
 
 ## 👨‍💻 About Me 
 
-I am a **Software Engineering Aspirant** and a dedicated **Competitive Programmer** currently undergoing a rigorous 9-month transformation through the **Sigma Prime (Apna College)** program. My journey is driven by a deep fascination with mathematics and the challenge of optimizing complex systems through code.
+At the moment, I am actively learning & improving my Skills in Competitive Programming & Problem Solving.
+After gaining Expertise in Competitive Programming, I aim to become Proficient in the MERN Stack Development.
+In the long run, I aspire to work on integrating Artificial Intelligence into Software Engineering & various Tech Fields !
 
-I bridge the gap between **high-performance logic** (using C++ and STL for Competitive Programming) and **modern product development** (building scalable applications with the MERN Stack). My ultimate goal is to architect **AI-integrated software**—combining robust full-stack foundations with the power of Generative AI and Machine Learning.
-
-- 🚀 **CP Journey:** Active on **Codeforces (Div 2)**, refining my intuition for advanced DSA and mathematical optimization in.
-- 🌐 **Web Dev:** Crafting seamless user experiences and robust backends using the **MERN Stack** in **VS Code**.
-- 🧠 **AI/ML Focus:** Developing a solid foundation in Machine Learning and Generative AI (RAG, Agentic AI) to engineer smarter, data-driven applications.
-- 🤝 **Collaboration:** I am eager to contribute to **Open Source** projects and collaborate on innovative software solutions.
-- 💬 **Ask me about:** C++, Logic Building, MERN Architecture, or the intersection of AI and Web Development.
+- 🚀 **CP Journey:** **Specialist** on **Codeforces.**
+- 🌐 **DS & MERN:** Learning From **Sigma 11** Batch.
+- 🧠 **AI/ML Focus:** Learning From **Prime 2.0** Batch.
 
 ---
 
-### 📈 Sigma Prime 11 - (10-Months )
+### 📈 Sigma Prime 11 - (full 2026)
 - [ ] **DSA :** Mastering DSA & Logic Building with C++. (4 Months)
 - [ ] **DEV:** Full Stack Engineering with MERN & DevOps. (5 Months)
 - [ ] **AI-ML:** AI/ML Engineering & GenAI Integration. (4 Months)
