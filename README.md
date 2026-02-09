@@ -49,8 +49,8 @@ In the long run, I aspire to work on integrating Artificial Intelligence into So
 ---
 
 ### 📈 Sigma Prime 11 - (full 2026)
-- [ ] **DSA :** Mastering DSA & Logic Building with C++. (4 Months)
-- [ ] **DEV:** Full Stack Engineering with MERN & DevOps. (5 Months)
+- [ ] **DSA :** Mastering DSA & Logic Building with C++. (5 Months)
+- [ ] **DEV:** Full Stack Engineering with MERN & DevOps. (4 Months)
 - [ ] **AI-ML:** AI/ML Engineering & GenAI Integration. (4 Months)
 - [ ] **Aptitude & Core:** Aptitude Test & OOP, DBMS, OS, CN, SD*.
 
