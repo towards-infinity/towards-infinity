@@ -42,7 +42,7 @@ At the moment, I am actively learning & improving my Skills in Competitive Progr
 After gaining Expertise in Competitive Programming, I aim to become Proficient in the MERN Stack Development. <br>
 In the long run, I aspire to work on integrating Artificial Intelligence into Software Engineering & various Tech Fields !
 
-- 🚀 **CP Journey:** **Specialist** on **Codeforces.**
+- 🚀 **CP Journey:** 💎 **Specialist** on **Codeforces.**
 - 🌐 **DS & MERN:** Learning From **Sigma 11** Batch.
 - 🧠 **AI/ML Focus:** Learning From **Prime 2.0** Batch.
 
