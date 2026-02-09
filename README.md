@@ -41,8 +41,8 @@
 
 ## 👨‍💻 About Me 
 
-At the moment, I am actively learning & improving my Skills in Competitive Programming & Problem Solving.
-After gaining Expertise in Competitive Programming, I aim to become Proficient in the MERN Stack Development.
+At the moment, I am actively learning & improving my Skills in Competitive Programming & Problem Solving. <br>
+After gaining Expertise in Competitive Programming, I aim to become Proficient in the MERN Stack Development. <br>
 In the long run, I aspire to work on integrating Artificial Intelligence into Software Engineering & various Tech Fields !
 
 - 🚀 **CP Journey:** **Specialist** on **Codeforces.**
