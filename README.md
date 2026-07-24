@@ -115,7 +115,7 @@ In the long run, I aspire to work on integrating Artificial Intelligence into So
 ## 🏆 Competitive Programming
 
 <div align="center">
-  <a href="https://codeforces.com/profile/0t0infinity">
+  <a href="https://codeforces.com/profile/0t0infinit">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="https://leetcode.com/u/0twoinfinity/">
