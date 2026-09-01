@@ -129,8 +129,8 @@ In the long run, I aspire to work on integrating Artificial Intelligence into So
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=towards-infinity&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://streak-stats.vercel.app/?user=towards-infinity&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=towards-infinity&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.vercel.app/?user=towards-infinity&theme=tokyonight&hide_border=true" />
 </p>
 
 
